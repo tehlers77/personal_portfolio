@@ -1,6 +1,6 @@
 ---
 title: Tesla Calculator
-description: Tesla In-Store Customer Calculator
+description: Tesla Customer Calculator
 employee: Trevor Ehlers
 employmentTime: 10
 employeeImage:
